@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+Kingdom Companion App/[Tt]emp/
+Kingdom Companion App/[Oo]bj/
+Kingdom Companion App/[Bb]uilds/
+Kingdom Companion App/[Ll]ibrary/
+Kingdom Companion App/[Ll]ibrary_ANDROID/
+Kingdom Companion App/[Ll]ibrary_PC/
+Kingdom Companion App/[Ll]ibrary_IOS/
+Kingdom Companion App/sysinfo.txt
+Kingdom Companion App/UnityVS/
+Kingdom Companion App/UnityVS.meta
+Kingdom Companion App/LightingData*
+Kingdom Companion App/ReflectionProbe*
+Kingdom Companion App/Assets/Scenes/Personal Scenes*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Kingdom Companion App/[Ee]xported[Oo]bj/
+Kingdom Companion App/*.userprefs
+Kingdom Companion App/*.csproj
+Kingdom Companion App/*.pidb
+Kingdom Companion App/*.suo
+Kingdom Companion App/*.sln*
+Kingdom Companion App/*.user
+Kingdom Companion App/*.unityproj
+Kingdom Companion App/*.booproj
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta

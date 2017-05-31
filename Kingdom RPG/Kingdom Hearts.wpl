@@ -1,0 +1,27 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5260"/>
+        <meta name="AverageRating" content="0"/>
+        <meta name="TotalDuration" content="2105"/>
+        <meta name="ItemCount" content="15"/>
+        <title>Kingdom Hearts</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\Kingdom Hearts - Battle at the Beach.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\Kingdom Hearts - Destati.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\Kingdom Hearts - Fragments of Sorrow.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\Kingdom Hearts - Simple and Clean - Japanese.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\28 - Riku.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\Kingdom Hearts-Simple And Clean remixed.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\24 - One-Winged Angel (from Final Fantasy VII).mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\31 - A Fight to the Death.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\38 - Vim and Vigor.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\03 - Passion ~opening version~.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\kingdom hearts II - Cloudchasers.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\22 - Laughter and Merriment.mp3"/>
+            <media src="..\Kenneths stuff\ny musik\Kingdom hearts\kingdom hearts remix.MP3"/>
+        </seq>
+    </body>
+</smil>

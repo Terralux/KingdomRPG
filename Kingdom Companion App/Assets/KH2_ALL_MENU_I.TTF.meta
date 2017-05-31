@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f8b880c0a6a445b4abf98ef77d8b130c
+timeCreated: 1486996529
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KH2 ALL MENU
+  fontNames:
+  - KH2 ALL MENU
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

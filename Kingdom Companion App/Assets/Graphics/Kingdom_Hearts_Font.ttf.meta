@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e517b42cfc3188a40baf8a64d611de8d
+timeCreated: 1486890349
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingdom Hearts
+  fontNames:
+  - Kingdom Hearts
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

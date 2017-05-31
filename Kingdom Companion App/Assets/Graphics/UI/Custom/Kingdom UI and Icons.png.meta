@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 94b21b0c48b595f4d8f2663a0778c7ea
+timeCreated: 1486890748
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kingdom UI and Icons_0
+    21300002: Kingdom UI and Icons_1
+    21300004: Kingdom UI and Icons_2
+    21300006: Kingdom UI and Icons_3
+    21300008: Kingdom UI and Icons_4
+    21300010: Kingdom UI and Icons_5
+    21300012: Kingdom UI and Icons_6
+    21300014: Kingdom UI and Icons_7
+    21300016: Kingdom UI and Icons_8
+    21300018: Kingdom UI and Icons_9
+    21300020: Kingdom UI and Icons_10
+    21300022: Kingdom UI and Icons_11
+    21300024: Kingdom UI and Icons_12
+    21300026: Kingdom UI and Icons_13
+    21300028: Kingdom UI and Icons_14
+    21300030: Kingdom UI and Icons_15
+    21300032: Kingdom UI and Icons_16
+    21300034: Kingdom UI and Icons_17
+    21300036: Kingdom UI and Icons_19
+    21300038: Kingdom UI and Icons_20
+    21300040: Kingdom UI and Icons_21
+    21300042: Kingdom UI and Icons_22
+    21300044: Kingdom UI and Icons_23
+    21300046: Kingdom UI and Icons_24
+    21300048: Kingdom UI and Icons_25
+    21300050: Kingdom UI and Icons_26
+    21300052: Kingdom UI and Icons_27
+    21300054: Kingdom UI and Icons_30
+    21300056: Kingdom UI and Icons_31
+    21300058: Kingdom UI and Icons_32
+    21300060: Kingdom UI and Icons_33
+    21300062: Kingdom UI and Icons_34
+    21300064: Kingdom UI and Icons_35
+    21300066: Kingdom UI and Icons_36
+    21300068: Kingdom UI and Icons_37
+    21300070: Kingdom UI and Icons_38
+    21300072: Kingdom UI and Icons_39
+    21300074: Kingdom UI and Icons_40
+    21300076: Kingdom UI and Icons_41
+    21300078: Kingdom UI and Icons_42
+    21300080: Kingdom UI and Icons_43
+    21300082: Kingdom UI and Icons_44
+    21300084: Kingdom UI and Icons_45
+    21300086: Kingdom UI and Icons_46
+    21300088: Kingdom UI and Icons_47
+    21300090: Kingdom UI and Icons_48
+    21300092: Kingdom UI and Icons_49
+    21300094: Kingdom UI and Icons_50
+    21300096: Kingdom UI and Icons_51
+    21300098: Kingdom UI and Icons_52
+    21300100: Kingdom UI and Icons_59
+    21300102: Kingdom UI and Icons_60
+    21300104: Kingdom UI and Icons_61
+    21300106: Kingdom UI and Icons_62
+    21300108: Kingdom UI and Icons_63
+    21300110: Kingdom UI and Icons_64
+    21300112: Kingdom UI and Icons_65
+    21300114: Kingdom UI and Icons_66
+    21300116: Kingdom UI and Icons_67
+    21300118: Kingdom UI and Icons_68
+    21300120: Kingdom UI and Icons_69
+    21300122: Kingdom UI and Icons_70
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1415
+        width: 434
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1459
+        width: 417
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1456
+        width: 451
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_3
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1671
+        width: 474
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_8
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1272
+        width: 322
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_9
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1164
+        width: 270
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 996
+        width: 402
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 976
+        width: 815
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_60
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 760
+        width: 342
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 580
+        width: 311
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_62
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 787
+        width: 798
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_63
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 681
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_64
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 681
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_65
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 687
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_66
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 687
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_67
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 686
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_68
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 683
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_69
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 686
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kingdom UI and Icons_70
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 532
+        width: 798
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
